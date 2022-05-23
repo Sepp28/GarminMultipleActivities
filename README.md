@@ -5,3 +5,5 @@ With this notebook a list of activities can be displayed on one page as shown he
 ![Picture of multiple activities](LanzaroteActivityMap.png?raw=true "Several activities displayed on map.")
 
 I use this depiction to get an overview of several acitivities in one area, e.g. bike tours during a trip. Here it is easy to plan a further tour to places not yet visited.
+
+**[Imprint](https://github.com/Sepp28/Impressum)**
